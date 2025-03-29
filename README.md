@@ -2,14 +2,11 @@
 
 Programa em Python para hospedagem de telas fake via tunelamento reverso.
 
-<table>
-<tr>
-<td width="40%">
-  
-![SevenHost](seven7.png){: width="100%"}
-
-</td>
-<td>
+<div align="center">
+  <img src="seven7.png" width="500" alt="SevenHost Interface Preview">
+  <br>
+  <sup><em>SevenHost v7.7 - Painel de Controle</em></sup>
+</div>
 
 ### Descrição do Sistema  
 - Hospedagem de telas via Python  
