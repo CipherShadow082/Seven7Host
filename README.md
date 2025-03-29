@@ -1,43 +1,23 @@
-<table>
-<tr>
-<td width="45%">
-  
-![SevenHost Interface](seven7.png)
+# SevenHost - Solução de Hospedagem Estratégica
 
-</td>
-<td style="vertical-align:top;">
+![SevenHost Preview](seven7.png){: style="width:65%; border:1px solid #eee; border-radius:8px;"}
 
-### 🖥️ **Descrição do Sistema**  
-<div style="background:#f8f9fa; padding:12px; border-left:4px solid #6f42c1; border-radius:4px; margin-bottom:16px;">
-Solução profissional para hospedagem temporária de interfaces web, com tecnologia Python para operações seguras e discretas.
-</div>
+## Descrição do Sistema
+Ferramenta Python para hospedagem temporária de interfaces web com:
+- Tunelamento reverso integrado (Serveo/Cloudflare/Ngrok)
+- Auto-destruição programada por sessão
+- Criptografia ponto-a-ponto
+- Rotação automática de endpoints
 
+## Funcionalidades
+- Geração instantânea de URLs públicas
+- Biblioteca de templates pré-configurados
+- Console de monitoramento em tempo real
+- Limpeza automática de logs e rastros
 
-- **Hospedagem Rápida** de telas personalizadas  
-- **Tunelamento Reverso** integrado (Serveo/Ngrok)  
-- **Auto-destruição** programada por tempo/sessão  
-- **Criptografia** ponto-a-ponto  
-
-</td>
-</tr>
-</table>
-
-</td>
-<td>
-
-**⚙️ Operação**  
-- Templates pré-configurados  
-- Console de monitoramento  
-- API de integração  
-
-</td>
-</tr>
-</table>
-
-## 📋 Requisitos do Sistema
+## Requisitos Técnicos
 ```bash
-# Requerimentos Mínimos
 • Python 3.8+ 
-• Terminal Linux/Windows
-• 2GB RAM livre
-
+• Terminal Linux/Windows/Termux
+• 2GB RAM disponível
+• Conexão estável
