@@ -10,5 +10,4 @@ Programa em Python para hospedagem de telas fake via tunelamento reverso.
 
 ## Requisitos
 - Python 3.8+
-- Dependências:
-  ```bash
+- Terminal
