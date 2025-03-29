@@ -1,6 +1,6 @@
 # 🕶️ SevenHost - Hospedagem7
 
-![🖥️ SevenHost Preview](seven7.png){: style="width:35%; border:1px solid #eee; border-radius:8px;"}
+![🖥️ SevenHost Preview](seven7.png)
 
 ## 📌 Descrição do Sistema
 Ferramenta Python para hospedagem temporária de interfaces web com:
