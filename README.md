@@ -1,4 +1,4 @@
-# 🔒 PhantomHost - Soluções de Hospedagem Estratégica
+# 🔒 PhantomHost
 
 ![Badge](https://img.shields.io/badge/Status-Operacional-darkgreen)
 ![Badge](https://img.shields.io/badge/Discretion-Level_7-purple)
