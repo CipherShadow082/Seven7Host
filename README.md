@@ -21,12 +21,6 @@ Solução profissional para hospedagem temporária de interfaces web, com tecnol
 </tr>
 </table>
 
-## 🔧 Funcionalidades Técnicas
-
-<table>
-<tr>
-<td width="50%">
-
 </td>
 <td>
 
