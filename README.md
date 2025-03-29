@@ -12,6 +12,7 @@
 Solução profissional para hospedagem temporária de interfaces web, com tecnologia Python para operações seguras e discretas.
 </div>
 
+
 - **Hospedagem Rápida** de telas personalizadas  
 - **Tunelamento Reverso** integrado (Serveo/Ngrok)  
 - **Auto-destruição** programada por tempo/sessão  
