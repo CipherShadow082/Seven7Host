@@ -15,8 +15,8 @@ Ferramenta Python para hospedagem temporária de interfaces web com:
 - 📊 Console de monitoramento em tempo real
 - 🧹 Limpeza automática de logs e rastros
 
-💰 Como Adquirir o Sistema
-entre em contato diretamente comigo no Telegram: [@CipherShadow08](https://t.me/CipherShadow08)
+
+💰Entre em contato diretamente comigo no Telegram: [@CipherShadow08](https://t.me/CipherShadow08)
 
 ## ⚙️ Requisitos Técnicos
 ```bash
