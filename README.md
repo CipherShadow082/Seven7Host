@@ -1,22 +1,14 @@
 # 🔒 PhantomHost
 
-![Badge](https://img.shields.io/badge/Status-Operacional-darkgreen)
-![Badge](https://img.shields.io/badge/Discretion-Level_7-purple)
+Programa em Python para hospedagem de telas fake via tunelamento reverso.
 
-## 📞 Contato
-✉️ [Telegram](https://t.me/CipherShadow08)  
-🔑 Chave de acesso requerida  
+## Funcionalidades
+- Geração de URLs públicas para interfaces locais
+- Templates pré-configurados para diversos cenários
+- Rotação automática de endpoints
+- Logs temporários (auto-exclusão)
 
-> "Soluções digitais sob medida para necessidades específicas"
-
-## 🌐 Sobre o Sistema
-
-- Hospedagem de Telas Fake
-- Gerenciamento remoto de conteúdo dinâmico  
-
-
-## 🛡️ Protocolos de Segurança
-```diff
-+ Criptografia ponto-a-ponto
-+ Rotação automática de endpoints
-+ Zero logs de acesso
+## Requisitos
+- Python 3.8+
+- Dependências:
+  ```bash
