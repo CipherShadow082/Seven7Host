@@ -3,7 +3,7 @@
 Programa em Python para hospedagem de telas fake via tunelamento reverso.
 
 <div align="center">
-  <img src="seven7.png" width="500" alt="SevenHost Interface Preview">
+  <img align="left" src="seven7.png" width="300" alt="SevenHost">
   <br>
   <sup><em>SevenHost v7.7 - Painel de Controle</em></sup>
 </div>
