@@ -1,27 +1,55 @@
-# 🔒 PhantomHost
+<table>
+<tr>
+<td width="45%">
+  
+![SevenHost Interface](seven7.png){: style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"}
 
-Programa em Python para hospedagem de telas fake via tunelamento reverso.
+</td>
+<td style="vertical-align:top;">
 
-<div align="center">
-  <img src="seven7.png" width="500" alt="SevenHost Interface Preview">
-  <br>
-  <sup><em>SevenHost v7.7 - Painel de Controle</em></sup>
+### 🖥️ **Descrição do Sistema**  
+<div style="background:#f8f9fa; padding:12px; border-left:4px solid #6f42c1; border-radius:4px; margin-bottom:16px;">
+Solução profissional para hospedagem temporária de interfaces web, com tecnologia Python para operações seguras e discretas.
 </div>
 
-### Descrição do Sistema  
-- Hospedagem de telas via Python  
-- Tunelamento reverso integrado  
-- Auto-destruição programada  
+- **Hospedagem Rápida** de telas personalizadas  
+- **Tunelamento Reverso** integrado (Serveo/Ngrok)  
+- **Auto-destruição** programada por tempo/sessão  
+- **Criptografia** ponto-a-ponto  
 
 </td>
 </tr>
 </table>
-## Funcionalidades
-- Geração de URLs públicas para interfaces locais
-- Templates pré-configurados para diversos cenários
-- Rotação automática de endpoints
-- Logs temporários (auto-exclusão)
 
-## Requisitos
-- Python 3.8+
-- Terminal
+## 🔧 Funcionalidades Técnicas
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Segurança**  
+- Rotação de endpoints  
+- Limpeza automática de logs  
+- Firewall embutido  
+
+</td>
+<td>
+
+**⚙️ Operação**  
+- Templates pré-configurados  
+- Console de monitoramento  
+- API de integração  
+
+</td>
+</tr>
+</table>
+
+## 📋 Requisitos do Sistema
+```bash
+# Requerimentos Mínimos
+• Python 3.8+ 
+• Terminal Linux/Windows
+• 2GB RAM livre
+
+# Instalação
+pip install -r requirements.txt
