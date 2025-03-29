@@ -27,11 +27,6 @@ Solução profissional para hospedagem temporária de interfaces web, com tecnol
 <tr>
 <td width="50%">
 
-**🛡️ Segurança**  
-- Rotação de endpoints  
-- Limpeza automática de logs  
-- Firewall embutido  
-
 </td>
 <td>
 
@@ -51,5 +46,3 @@ Solução profissional para hospedagem temporária de interfaces web, com tecnol
 • Terminal Linux/Windows
 • 2GB RAM livre
 
-# Instalação
-pip install -r requirements.txt
