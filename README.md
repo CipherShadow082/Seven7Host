@@ -9,16 +9,15 @@ Ferramenta Python para hospedagem temporária de interfaces web com:
 🔹 **🔒 Criptografia** ponto-a-ponto  
 🔹 **🔄 Rotação automática** de endpoints  
 
-💰 Como Adquirir o Sistema
-
-Para obter uma chave de acesso, entre em contato diretamente comigo no Telegram:
-[@CipherShadow08](https://t.me/CipherShadow08)
-
 ## 🛠️ Funcionalidades Principais
 - 🚀 Geração instantânea de URLs públicas
 - 📁 Biblioteca de templates pré-configurados
 - 📊 Console de monitoramento em tempo real
 - 🧹 Limpeza automática de logs e rastros
+
+💰 Como Adquirir o Sistema
+Para obter uma chave de acesso, entre em contato diretamente comigo no Telegram:
+[@CipherShadow08](https://t.me/CipherShadow08)
 
 ## ⚙️ Requisitos Técnicos
 ```bash
@@ -27,3 +26,4 @@ Para obter uma chave de acesso, entre em contato diretamente comigo no Telegram:
 • 💻 Terminal Linux/Windows/Termux
 • 🧠 2GB RAM disponível
 • 🌐 Conexão estável
+
