@@ -1,7 +1,7 @@
 # 🔒 PhantomHost
 
 Programa em Python para hospedagem de telas fake via tunelamento reverso.
-(seven7.png)
+!(seven7.png)
 
 ## Funcionalidades
 - Geração de URLs públicas para interfaces locais
