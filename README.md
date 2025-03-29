@@ -2,7 +2,7 @@
 <tr>
 <td width="45%">
   
-![SevenHost Interface](seven7.png){: style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"}
+![SevenHost Interface](seven7.png)
 
 </td>
 <td style="vertical-align:top;">
