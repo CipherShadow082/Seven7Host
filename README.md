@@ -1,6 +1,6 @@
 # 🕶️ SevenHost - Hospedagem7
 
-![🖥️ SevenHost Preview](seven7.png)
+![🖥️ SevenHost Preview](7.png)
 
 ## 📌 Descrição do Sistema
 Ferramenta Python para hospedagem temporária de interfaces web com:
